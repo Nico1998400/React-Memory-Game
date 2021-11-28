@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.App-Page {
+  display: grid;
+  grid-template-columns: repeat(13, 1fr);
+}
+
+

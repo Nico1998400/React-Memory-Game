@@ -1,0 +1,16 @@
+
+.turnAroundCard .frontSideOfImg {
+  transform: rotateY(0deg);
+}
+
+.frontSideOfImg {
+  height: 8em;
+  margin-left: 2rem;
+  transform: rotateY(90deg);
+  position: absolute;
+}
+
+.backSideOfImg{
+  height: 8rem;
+  margin-left: 2rem;
+}
